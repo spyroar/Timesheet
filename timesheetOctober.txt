@@ -1,0 +1,26 @@
+Status Report from 04-October-2022 - Tuesday
+
+Status Report       : Awnish Kumar
+Reporting Time      : 9:00 am to 6:00 pm
+Break Time          : 2:00 pm to 2:30 pm
+Total Working hours : 8+ hours
+Reporting To        : snehal.shinde@mobileprogramming.com
+CC to               : nitin.kumar@mobileprogramming.com
+
+Project Name : technick-b2b-ecommerce 
+Client Name : Webonise Lab     
+Project Status : Running
+
+Activities Performed:-
+
+1. Create a shopify Store
+2. Add products in shopify Store
+3. Create a shopify hydrojen project 
+4. Show product in project
+
+
+Thanks
+Awnish Kumar
+Software Engineer
++91-8299502081
+*********************************************************
